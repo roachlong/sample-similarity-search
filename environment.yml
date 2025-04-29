@@ -1,0 +1,31 @@
+name: tf-macos
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - contextily
+  - fasteners
+  - filelock
+  - ipycanvas
+  - ipyevents
+  - ipykernel
+  - ipywidgets
+  - jupyter
+  - matplotlib
+  - networkx
+  - numpy
+  - osmnx
+  - pandas
+  - psycopg
+  - psycopg2
+  - pygame
+  - PySimpleGUI
+  - python.app
+  - scikit-learn
+  - seaborn
+  - watermark
+  - pip
+  - pip:
+      - tensorflow-macos
+      - tensorflow-metal
+      - confluent-kafka

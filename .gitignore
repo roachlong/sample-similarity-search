@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+.ipynb_checkpoints/
+__pycache__/
+bin/
+certs/
+cockroach-data/
+data/
+my-safe-directory/
+obj/
+settings/
+venv/
+
+cache
+tmp
