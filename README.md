@@ -1,7 +1,10 @@
 # sample-similarity-search
 The Property Search system enables AI-driven residential property valuation and search based on real-estate market segmentation and similarity analysis.  The system follows a clean data and model lifecycle leveraging CRDB's vector database capabilities.
 
-![image](https://github.com/user-attachments/assets/02c387f3-9186-4f97-9026-ee01172c854f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5bbcfdb7-b898-4b4c-90d1-ef53f128c210" alt="Data Flow" width="45%" height="300px"/>
+  <img src="https://github.com/user-attachments/assets/e6647a76-325b-4c96-a43d-71729cb27dc5" alt="Prediction Flow" height="300px"/>
+</p>
 
 
 ## Market Segmentation
